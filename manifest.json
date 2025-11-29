@@ -439,22 +439,6 @@
       },
       {
         "mcVersions": {},
-        "modVersion": "1.1.0",
-        "repository": "modrinth",
-        "loaders": {},
-        "downloadUrl": "https://cdn.modrinth.com/data/esHgHqnl/versions/6YjRYqyx/compactf3-1.1.0.jar",
-        "modMetadata": {
-          "repository": "modrinth",
-          "id": "compact-f3",
-          "slug": "compact-f3",
-          "name": "Compact F3",
-          "homepageURL": "https://modrinth.com/mod/compact-f3",
-          "imageURL": "https://cdn.modrinth.com/data/esHgHqnl/be9b3037dbd13649627e6af51256b40c11e5a7bf_96.webp",
-          "downloadCount": 4629
-        }
-      },
-      {
-        "mcVersions": {},
         "modVersion": "1.0.0-beta.47+1.20.1",
         "repository": "modrinth",
         "loaders": {},
