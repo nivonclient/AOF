@@ -1239,22 +1239,6 @@
       },
       {
         "mcVersions": {},
-        "modVersion": "1.20.1-5.10.3-forge",
-        "repository": "modrinth",
-        "loaders": {},
-        "downloadUrl": "https://cdn.modrinth.com/data/lfHFW1mp/versions/r7FWVNCs/journeymap-1.20.1-5.10.3-forge.jar",
-        "modMetadata": {
-          "repository": "modrinth",
-          "id": "journeymap",
-          "slug": "journeymap",
-          "name": "JourneyMap",
-          "homepageURL": "https://modrinth.com/mod/journeymap",
-          "imageURL": "https://cdn.modrinth.com/data/lfHFW1mp/a1c571a21a88f6fa59eab67829f216f65ab393ee_96.webp",
-          "downloadCount": 7201544
-        }
-      },
-      {
-        "mcVersions": {},
         "modVersion": "4.11.0",
         "repository": "modrinth",
         "loaders": {},
