@@ -1,0 +1,2326 @@
+[
+  {
+    "mcConfig": {
+      "mcVersion": "1.20.1",
+      "loader": "forge"
+    },
+    "mods": [
+      {
+        "mcVersions": {},
+        "modVersion": "1.6.9",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/9NM0dXub/versions/xqigG9AR/AdvancementPlaques-1.20.1-forge-1.6.9.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "advancement-plaques",
+          "slug": "advancement-plaques",
+          "name": "Advancement Plaques",
+          "homepageURL": "https://modrinth.com/mod/advancement-plaques",
+          "imageURL": "https://cdn.modrinth.com/data/9NM0dXub/bb63f53585dd34679781c9964874dce8acdf6d26_96.webp",
+          "downloadCount": 7996897
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "0.5.2",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/DSVgwcji/versions/eJihmpNQ/AI-Improvements-1.20-0.5.2.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "ai-improvements",
+          "slug": "ai-improvements",
+          "name": "AI Improvements",
+          "homepageURL": "https://modrinth.com/mod/ai-improvements",
+          "imageURL": "https://cdn.modrinth.com/data/DSVgwcji/819dbaeb9b0dac8250a1403d1db7e7646f9a9b8f.png",
+          "downloadCount": 7357117
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "alexsdelight-1.5.jar",
+        "repository": "curseforge",
+        "loaders": {},
+        "downloadUrl": "https://mediafilez.forgecdn.net/files/5028/450/alexsdelight-1.5.jar",
+        "modMetadata": {
+          "repository": "curseforge",
+          "id": "556448",
+          "slug": "alexs-delight",
+          "name": "Alex's Delight",
+          "homepageURL": "https://www.curseforge.com/minecraft/mc-mods/alexs-delight",
+          "imageURL": "https://media.forgecdn.net/avatars/467/198/637748653028908201.png",
+          "downloadCount": 31140441
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.22.9",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/2cMuAZAp/versions/XoIASRVU/alexsmobs-1.22.9.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "alexs-mobs",
+          "slug": "alexs-mobs",
+          "name": "Alex's Mobs",
+          "homepageURL": "https://modrinth.com/mod/alexs-mobs",
+          "imageURL": "https://cdn.modrinth.com/data/2cMuAZAp/fbe04602fb0fb336be05e7c40378156b49d50156_96.webp",
+          "downloadCount": 5490271
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "alltheleaks-1.1.1+1.20.1-forge.jar",
+        "repository": "curseforge",
+        "loaders": {},
+        "downloadUrl": "https://edge.forgecdn.net/files/7235/989/alltheleaks-1.1.1%2b1.20.1-forge.jar",
+        "modMetadata": {
+          "repository": "curseforge",
+          "id": "1091339",
+          "slug": "alltheleaks",
+          "name": "AllTheLeaks (Memory Leak Fix)",
+          "homepageURL": "https://www.curseforge.com/minecraft/mc-mods/alltheleaks",
+          "imageURL": "https://media.forgecdn.net/avatars/1068/365/638602852129913496.png",
+          "downloadCount": 32689714
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.0.2",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/Gi02250Z/versions/DnzrwvfD/almanac-1.20.x-forge-1.0.2.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "almanac",
+          "slug": "almanac",
+          "name": "Almanac",
+          "homepageURL": "https://modrinth.com/mod/almanac",
+          "imageURL": "https://cdn.modrinth.com/data/Gi02250Z/f0bb3148fcb735bb989ef5723d199114e1f24542.png",
+          "downloadCount": 6729815
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "AltOriginGui-forge-1.20.1-1.1.2.jar",
+        "repository": "curseforge",
+        "loaders": {},
+        "downloadUrl": "https://edge.forgecdn.net/files/5633/649/AltOriginGui-forge-1.20.1-1.1.2.jar",
+        "modMetadata": {
+          "repository": "curseforge",
+          "id": "873788",
+          "slug": "altorigingui",
+          "name": "Alternate Origin GUI",
+          "homepageURL": "https://www.curseforge.com/minecraft/mc-mods/altorigingui",
+          "imageURL": "https://media.forgecdn.net/avatars/831/846/638222228568130762.png",
+          "downloadCount": 4184542
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.2.11",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/wXiGiyGX/versions/wjOKbxcn/Amplified_Nether_1.21.x_v1.2.11.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "amplified-nether",
+          "slug": "amplified-nether",
+          "name": "Amplified Nether",
+          "homepageURL": "https://modrinth.com/mod/amplified-nether",
+          "imageURL": "https://cdn.modrinth.com/data/wXiGiyGX/6673676af05cb98985909f2378ff0f87ee951401_96.webp",
+          "downloadCount": 1245424
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "2.5.1+mc1.20.1",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/EsAfCjCV/versions/XdXDExVF/appleskin-forge-mc1.20.1-2.5.1.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "appleskin",
+          "slug": "appleskin",
+          "name": "AppleSkin",
+          "homepageURL": "https://modrinth.com/mod/appleskin",
+          "imageURL": "https://cdn.modrinth.com/data/EsAfCjCV/icon.png",
+          "downloadCount": 40709507
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "6.1.2",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/k23mNPhZ/versions/ADmEFc16/aquamirae-forge-1.20.1-6.1.2.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "aquamirae",
+          "slug": "aquamirae",
+          "name": "Aquamirae",
+          "homepageURL": "https://modrinth.com/mod/aquamirae",
+          "imageURL": "https://cdn.modrinth.com/data/k23mNPhZ/a079cd089a737244861b41eea6c15b6e7091cc90_96.webp",
+          "downloadCount": 4187361
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "9.2.14+forge",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "architectury-api",
+          "slug": "architectury-api",
+          "name": "Architectury API",
+          "homepageURL": "https://modrinth.com/mod/architectury-api",
+          "imageURL": "https://cdn.modrinth.com/data/lhGA9TYQ/05fe3a61c28faaccaec3533b92e1b321edde7bf6_96.webp",
+          "downloadCount": 47853399
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.6.2",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/Q7VPWopC/versions/Y1QQeYYi/Auroras-1.20.1-1.6.2.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "auroras",
+          "slug": "auroras",
+          "name": "Auroras",
+          "homepageURL": "https://modrinth.com/mod/auroras",
+          "imageURL": "https://cdn.modrinth.com/data/Q7VPWopC/ece25a101fb8d23ab50523a1d08536c1a3f0f456_96.webp",
+          "downloadCount": 87625
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "2.4.0",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/7JVYse6h/BadOptimizations-2.4.0-1.20.1.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "badoptimizations",
+          "slug": "badoptimizations",
+          "name": "BadOptimizations",
+          "homepageURL": "https://modrinth.com/mod/badoptimizations",
+          "imageURL": "",
+          "downloadCount": 15273405
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "balm-forge-1.20.1-7.3.37-all.jar",
+        "repository": "curseforge",
+        "loaders": {},
+        "downloadUrl": "https://edge.forgecdn.net/files/7087/245/balm-forge-1.20.1-7.3.37-all.jar",
+        "modMetadata": {
+          "repository": "curseforge",
+          "id": "531761",
+          "slug": "balm",
+          "name": "Balm",
+          "homepageURL": "https://www.curseforge.com/minecraft/mc-mods/balm",
+          "imageURL": "https://media.forgecdn.net/avatars/1107/117/638657111836546584.png",
+          "downloadCount": 161485537
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "20.2.13",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/uy4Cnpcm/versions/tNwsir0K/Bookshelf-Forge-1.20.1-20.2.13.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "bookshelf-lib",
+          "slug": "bookshelf-lib",
+          "name": "Bookshelf",
+          "homepageURL": "https://modrinth.com/mod/bookshelf-lib",
+          "imageURL": "https://cdn.modrinth.com/data/uy4Cnpcm/002e73d916fb63c9c85e212ac47fde4ef9c4a65f.png",
+          "downloadCount": 23123423
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "0.5.12",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/2wFaq89h/versions/Ji9CnlsP/Brute%20force%20Rendering%20Culling-forge-1.20.1-0.5.12.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "brute-force-rendering-culling",
+          "slug": "brute-force-rendering-culling",
+          "name": "Brute force Rendering Culling",
+          "homepageURL": "https://modrinth.com/mod/brute-force-rendering-culling",
+          "imageURL": "https://cdn.modrinth.com/data/2wFaq89h/d0af7829b9ec490e5bc7bdb4d0bb86e8007f48d2_96.webp",
+          "downloadCount": 143106
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "caelus-forge-3.2.0+1.20.1.jar",
+        "repository": "curseforge",
+        "loaders": {},
+        "downloadUrl": "https://edge.forgecdn.net/files/5281/700/caelus-forge-3.2.0%2b1.20.1.jar",
+        "modMetadata": {
+          "repository": "curseforge",
+          "id": "308989",
+          "slug": "caelus",
+          "name": "Caelus API",
+          "homepageURL": "https://www.curseforge.com/minecraft/mc-mods/caelus",
+          "imageURL": "https://media.forgecdn.net/avatars/181/894/636803819154686484.png",
+          "downloadCount": 120560703
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "2.0.5-forge+mc.1.20.0-1.20.5",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/m0oRwcZx/versions/zBBrUmDU/CameraOverhaul-v2.0.5-forge%2Bmc%5B1.20.0-1.20.5%5D.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "cameraoverhaul",
+          "slug": "cameraoverhaul",
+          "name": "Camera Overhaul",
+          "homepageURL": "https://modrinth.com/mod/cameraoverhaul",
+          "imageURL": "https://cdn.modrinth.com/data/m0oRwcZx/bebf0a98167f737c643abe85382a7ec14d264cbf.png",
+          "downloadCount": 2557284
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "2.1.2.7",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/joEfVgkn/versions/edGQD16r/carryon-forge-1.20.1-2.1.2.7.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "carry-on",
+          "slug": "carry-on",
+          "name": "Carry On",
+          "homepageURL": "https://modrinth.com/mod/carry-on",
+          "imageURL": "https://cdn.modrinth.com/data/joEfVgkn/d7750a532cd45c9020bf4d07f304191de6e98c19_96.webp",
+          "downloadCount": 11835033
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "2.0.4",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/jawg7zT1/versions/inDklMG3/cavedust-2.0.4-1.20.1-forge.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "cave-dust",
+          "slug": "cave-dust",
+          "name": "Cave Dust",
+          "homepageURL": "https://modrinth.com/mod/cave-dust",
+          "imageURL": "https://cdn.modrinth.com/data/jawg7zT1/9db694bb9f52ba4697f2d09ab8945335585ff544_96.webp",
+          "downloadCount": 5291674
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "0.14.2",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/kHywXsX0/chat_heads-0.14.2-forge-1.20.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "chat-heads",
+          "slug": "chat-heads",
+          "name": "Chat Heads",
+          "homepageURL": "https://modrinth.com/mod/chat-heads",
+          "imageURL": "https://cdn.modrinth.com/data/Wb5oqrBJ/icon.png",
+          "downloadCount": 22782581
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "FORGE-mc1.20.1-v1.7.2",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/yD9qW65f/versions/mhoiaJiH/chloride-FORGE-mc1.20.1-v1.7.2.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "chloride",
+          "slug": "chloride",
+          "name": "Chloride (Embeddium++/Sodium++)",
+          "homepageURL": "https://modrinth.com/mod/chloride",
+          "imageURL": "https://cdn.modrinth.com/data/yD9qW65f/da3beac7a50202458b54560f04aad20033895bab_96.webp",
+          "downloadCount": 7516954
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "chunksending-1.20.1-2.8.jar",
+        "repository": "curseforge",
+        "loaders": {},
+        "downloadUrl": "https://edge.forgecdn.net/files/4894/789/chunksending-1.20.1-2.8.jar",
+        "modMetadata": {
+          "repository": "curseforge",
+          "id": "831663",
+          "slug": "chunk-sending-forge-fabric",
+          "name": "Chunk Sending[Forge/Fabric]",
+          "homepageURL": "https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric",
+          "imageURL": "https://media.forgecdn.net/avatars/782/744/638130016628532924.png",
+          "downloadCount": 48200598
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.3.146",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/fALzjamp/versions/4FTDk9wv/Chunky-1.3.146.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "chunky",
+          "slug": "chunky",
+          "name": "Chunky",
+          "homepageURL": "https://modrinth.com/mod/chunky",
+          "imageURL": "https://cdn.modrinth.com/data/fALzjamp/e1954413665e57b7bae1feef44eda530270c7d47_96.webp",
+          "downloadCount": 7168939
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "2.6.2",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/jJfV67b1/versions/oD1qDb1C/citadel-2.6.2-1.20.1.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "citadel",
+          "slug": "citadel",
+          "name": "Citadel",
+          "homepageURL": "https://modrinth.com/mod/citadel",
+          "imageURL": "https://cdn.modrinth.com/data/jJfV67b1/0aa5d9f63754fa9a39b9d3deff95e5819fa5b721_96.webp",
+          "downloadCount": 6890457
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "11.1.136+forge",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/9s6osm5g/versions/t8TXrZvZ/cloth-config-11.1.136-forge.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "cloth-config",
+          "slug": "cloth-config",
+          "name": "Cloth Config API",
+          "homepageURL": "https://modrinth.com/mod/cloth-config",
+          "imageURL": "https://cdn.modrinth.com/data/9s6osm5g/ed8a2316cbb6f4fc5f510e8e13a59a85cbbbff4d_96.webp",
+          "downloadCount": 73982433
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "Clumps-forge-1.20.1-12.0.0.4.jar",
+        "repository": "curseforge",
+        "loaders": {},
+        "downloadUrl": "https://edge.forgecdn.net/files/5278/538/Clumps-forge-1.20.1-12.0.0.4.jar",
+        "modMetadata": {
+          "repository": "curseforge",
+          "id": "256717",
+          "slug": "clumps",
+          "name": "Clumps",
+          "homepageURL": "https://www.curseforge.com/minecraft/mc-mods/clumps",
+          "imageURL": "https://media.forgecdn.net/avatars/1289/817/638838549850518521.gif",
+          "downloadCount": 291146628
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.1.0",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/esHgHqnl/versions/6YjRYqyx/compactf3-1.1.0.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "compact-f3",
+          "slug": "compact-f3",
+          "name": "Compact F3",
+          "homepageURL": "https://modrinth.com/mod/compact-f3",
+          "imageURL": "https://cdn.modrinth.com/data/esHgHqnl/be9b3037dbd13649627e6af51256b40c11e5a7bf_96.webp",
+          "downloadCount": 4629
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.0.0-beta.47+1.20.1",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/u58R1TMW/versions/XoBmts8o/Connector-1.0.0-beta.47%2B1.20.1.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "connector",
+          "slug": "connector",
+          "name": "Sinytra Connector",
+          "homepageURL": "https://modrinth.com/mod/connector",
+          "imageURL": "https://cdn.modrinth.com/data/u58R1TMW/cc0775e1d038b26b7c91144fe4c5ee3b21d3a6a3_96.webp",
+          "downloadCount": 7610237
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "3.0.0+1.20.1.forge",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/1IjD5062/versions/9KbAcWSO/continuity-3.0.0%2B1.20.1.forge.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "continuity",
+          "slug": "continuity",
+          "name": "Continuity",
+          "homepageURL": "https://modrinth.com/mod/continuity",
+          "imageURL": "https://cdn.modrinth.com/data/1IjD5062/icon.png",
+          "downloadCount": 32657779
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "Controlling-forge-1.20.1-12.0.2.jar",
+        "repository": "curseforge",
+        "loaders": {},
+        "downloadUrl": "https://mediafilez.forgecdn.net/files/4646/682/Controlling-forge-1.20.1-12.0.2.jar",
+        "modMetadata": {
+          "repository": "curseforge",
+          "id": "250398",
+          "slug": "controlling",
+          "name": "Controlling",
+          "homepageURL": "https://www.curseforge.com/minecraft/mc-mods/controlling",
+          "imageURL": "https://media.forgecdn.net/avatars/49/603/636079972364045115.png",
+          "downloadCount": 325359471
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.20.1-1.3.7",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/rLLJ1OZM/versions/6rPDKAT8/coroutil-forge-1.20.1-1.3.7.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "coroutil",
+          "slug": "coroutil",
+          "name": "CoroUtil",
+          "homepageURL": "https://modrinth.com/mod/coroutil",
+          "imageURL": "https://cdn.modrinth.com/data/rLLJ1OZM/7c7b819ec62d311533db06f6674ce4ebeb867a9d_96.webp",
+          "downloadCount": 14448349
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "corpse-forge-1.20.1-1.0.23.jar",
+        "repository": "curseforge",
+        "loaders": {},
+        "downloadUrl": "https://edge.forgecdn.net/files/7018/272/corpse-forge-1.20.1-1.0.23.jar",
+        "modMetadata": {
+          "repository": "curseforge",
+          "id": "316582",
+          "slug": "corpse",
+          "name": "Corpse",
+          "homepageURL": "https://www.curseforge.com/minecraft/mc-mods/corpse",
+          "imageURL": "https://media.forgecdn.net/avatars/194/489/636873305017840968.png",
+          "downloadCount": 93534481
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.10.23",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/ix1qq8Ux/versions/I1JsyRBG/CrashAssistant-forge-1.19-1.20.1-1.10.23.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "crash-assistant",
+          "slug": "crash-assistant",
+          "name": "Crash Assistant",
+          "homepageURL": "https://modrinth.com/mod/crash-assistant",
+          "imageURL": "https://cdn.modrinth.com/data/ix1qq8Ux/0850872f4de156ee91a8b1d1f71615cb4615bfa4_96.webp",
+          "downloadCount": 2432423
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.3.3",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/JWGBpFUP/versions/E8bB0Vws/create_enchantment_industry-1.3.3-for-create-6.0.6.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "create-enchantment-industry",
+          "slug": "create-enchantment-industry",
+          "name": "Create: Enchantment Industry",
+          "homepageURL": "https://modrinth.com/mod/create-enchantment-industry",
+          "imageURL": "https://cdn.modrinth.com/data/JWGBpFUP/9571cd419c5eee9f2017f0b6f7cf6e81c665723b_96.webp",
+          "downloadCount": 2158826
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "mc1.20.1-6.0.8",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/LNytGWDc/versions/8amzvn9x/create-1.20.1-6.0.8.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "create",
+          "slug": "create",
+          "name": "Create",
+          "homepageURL": "https://modrinth.com/mod/create",
+          "imageURL": "https://cdn.modrinth.com/data/LNytGWDc/61d716699bcf1ec42ed4926a9e1c7311be6087e2_96.webp",
+          "downloadCount": 8552411
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "forge-1.20.1-1.3.",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/kU1G12Nn/versions/9LgyB6Yb/createaddition-1.20.1-1.3.3.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "createaddition",
+          "slug": "createaddition",
+          "name": "Create Crafts & Additions",
+          "homepageURL": "https://modrinth.com/mod/createaddition",
+          "imageURL": "https://cdn.modrinth.com/data/kU1G12Nn/d8d1ec226747a800ba175f70ad00a80f37047cb6_96.webp",
+          "downloadCount": 4719693
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "2.12.32",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/OsZiaDHq/versions/IbFWHI5h/CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "creativecore",
+          "slug": "creativecore",
+          "name": "CreativeCore",
+          "homepageURL": "https://modrinth.com/mod/creativecore",
+          "imageURL": "https://cdn.modrinth.com/data/OsZiaDHq/4953ecd3c0c8b185b2a56d64cdb104b03f3e5038_96.webp",
+          "downloadCount": 23574543
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "4.1.0+1.20.1-forge",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/GNxdLCoP/versions/GMVPW4xw/cullleaves-forge-4.1.0%2B1.20.1.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "cull-leaves",
+          "slug": "cull-leaves",
+          "name": "Cull Leaves",
+          "homepageURL": "https://modrinth.com/mod/cull-leaves",
+          "imageURL": "https://cdn.modrinth.com/data/GNxdLCoP/icon.png",
+          "downloadCount": 4192954
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.20.1-1.0.5",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/qthuEuVy/versions/wPOb8yEG/CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "cull-less-leaves-reforged",
+          "slug": "cull-less-leaves-reforged",
+          "name": "Cull Less Leaves Reforged",
+          "homepageURL": "https://modrinth.com/mod/cull-less-leaves-reforged",
+          "imageURL": "https://cdn.modrinth.com/data/qthuEuVy/c89e3ec490b4999fda762b996c59cbdc8b76834f_96.webp",
+          "downloadCount": 1480672
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "cupboard-1.20.1-2.7.jar",
+        "repository": "curseforge",
+        "loaders": {},
+        "downloadUrl": "https://edge.forgecdn.net/files/5470/32/cupboard-1.20.1-2.7.jar",
+        "modMetadata": {
+          "repository": "curseforge",
+          "id": "326652",
+          "slug": "cupboard",
+          "name": "Cupboard",
+          "homepageURL": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
+          "imageURL": "https://media.forgecdn.net/avatars/852/567/638255508280634753.png",
+          "downloadCount": 126836853
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "5.14.1+1.20.1",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/vvuO3ImH/versions/IPQlZkz1/curios-forge-5.14.1%2B1.20.1.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "curios",
+          "slug": "curios",
+          "name": "Curios API",
+          "homepageURL": "https://modrinth.com/mod/curios",
+          "imageURL": "https://cdn.modrinth.com/data/vvuO3ImH/2a7323ca80849de0bcb50299e18acdf8bf394682.png",
+          "downloadCount": 15260100
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "dragonfight-1.20.1-4.7.jar",
+        "repository": "curseforge",
+        "loaders": {},
+        "downloadUrl": "https://edge.forgecdn.net/files/6828/601/dragonfight-1.20.1-4.7.jar",
+        "modMetadata": {
+          "repository": "curseforge",
+          "id": "523327",
+          "slug": "savage-ender-dragon",
+          "name": "Savage Ender Dragon[Forge/Fabric]",
+          "homepageURL": "https://www.curseforge.com/minecraft/mc-mods/savage-ender-dragon",
+          "imageURL": "https://media.forgecdn.net/avatars/536/577/637858700470473603.png",
+          "downloadCount": 23279962
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "Drip Sounds-0.5.2+1.20.4-Forge.jar",
+        "repository": "curseforge",
+        "loaders": {},
+        "downloadUrl": "https://edge.forgecdn.net/files/7251/810/Drip%20Sounds-0.5.2%2b1.20.4-Forge.jar",
+        "modMetadata": {
+          "repository": "curseforge",
+          "id": "448311",
+          "slug": "dripsounds",
+          "name": "Drip Sounds",
+          "homepageURL": "https://www.curseforge.com/minecraft/mc-mods/dripsounds",
+          "imageURL": "https://media.forgecdn.net/avatars/345/405/637492802714854892.png",
+          "downloadCount": 2866673
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "dynamiclights-v1.9-mc1.17-1.21.5-mod.jar",
+        "repository": "curseforge",
+        "loaders": {},
+        "downloadUrl": "https://edge.forgecdn.net/files/7053/902/dynamiclights-v1.9-mc1.17-1.21.5-mod.jar",
+        "modMetadata": {
+          "repository": "curseforge",
+          "id": "910095",
+          "slug": "tschipcrafts-dynamic-lights-mod",
+          "name": "Dynamic Lights [Server] [Fabric/Quilt/Forge/NeoForge]",
+          "homepageURL": "https://www.curseforge.com/minecraft/mc-mods/tschipcrafts-dynamic-lights-mod",
+          "imageURL": "https://media.forgecdn.net/avatars/874/27/638294576361309208.png",
+          "downloadCount": 6248281
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "6.4.4+1.20.1",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/mSQF1NpT/versions/k6lA080t/elytraslot-forge-6.4.4%2B1.20.1.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "elytra-slot",
+          "slug": "elytra-slot",
+          "name": "Elytra Slot",
+          "homepageURL": "https://modrinth.com/mod/elytra-slot",
+          "imageURL": "https://cdn.modrinth.com/data/mSQF1NpT/b59d48e0111456cac90a18e4edc0b0d9727414a2.png",
+          "downloadCount": 7118799
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "0.3.31+mc1.20.1",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "embeddium",
+          "slug": "embeddium",
+          "name": "Embeddium",
+          "homepageURL": "https://modrinth.com/mod/embeddium",
+          "imageURL": "https://cdn.modrinth.com/data/sk9rgfiA/55f9c50284f8abbbe2a485abfd6a16209201e451_96.webp",
+          "downloadCount": 16489068
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "17.1.19",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/UVtY3ZAC/versions/nq9ce04C/EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "enchantment-descriptions",
+          "slug": "enchantment-descriptions",
+          "name": "Enchantment Descriptions",
+          "homepageURL": "https://modrinth.com/mod/enchantment-descriptions",
+          "imageURL": "https://cdn.modrinth.com/data/UVtY3ZAC/1f857baf3d1f78e40343925176c084838c91a891_96.webp",
+          "downloadCount": 18285576
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.1.3",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/2uEhdGKt/versions/DCBTCmop/endersdelight-forge-1.20.1-1.1.3.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "enders-delight",
+          "slug": "enders-delight",
+          "name": "Ender's Delight",
+          "homepageURL": "https://modrinth.com/mod/enders-delight",
+          "imageURL": "https://cdn.modrinth.com/data/2uEhdGKt/0cf9c0392fdec68443e8c1136f78a5a5485d2cbb_96.webp",
+          "downloadCount": 2526752
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "5.3.3-R-1.20.1",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/ZJTGwAND/versions/SQS2aSUl/endrem_forge-5.3.3-R-1.20.1.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "endrem",
+          "slug": "endrem",
+          "name": "End Remastered",
+          "homepageURL": "https://modrinth.com/mod/endrem",
+          "imageURL": "https://cdn.modrinth.com/data/ZJTGwAND/c3ef9ecaecdf6ebe10623afbf60e25da211fe235_96.webp",
+          "downloadCount": 3455009
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.8.2",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/KjL0jE2w/versions/m3cjYtkA/EnhancedVisuals_FORGE_v1.8.2_mc1.20.1.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "enhancedvisuals",
+          "slug": "enhancedvisuals",
+          "name": "EnhancedVisuals",
+          "homepageURL": "https://modrinth.com/mod/enhancedvisuals",
+          "imageURL": "https://cdn.modrinth.com/data/KjL0jE2w/94613d78601f0b6b0c6e95f8eddd7d58738ac449_96.webp",
+          "downloadCount": 7576292
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "3.0.7-forge-1.20.1",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/4I1XuqiY/versions/yvcQe2gF/entity_model_features_1.20.1-forge-3.0.7.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "entity-model-features",
+          "slug": "entity-model-features",
+          "name": "[EMF] Entity Model Features",
+          "homepageURL": "https://modrinth.com/mod/entity-model-features",
+          "imageURL": "https://cdn.modrinth.com/data/4I1XuqiY/6e5bbd0d06b1741bfdab6c0cfab6de8fdaf0064c_96.webp",
+          "downloadCount": 40909346
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "7.0.6-forge-1.20.1",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/BVzZfTc1/versions/StRGhMIZ/entity_texture_features_1.20.1-forge-7.0.6.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "entitytexturefeatures",
+          "slug": "entitytexturefeatures",
+          "name": "[ETF] Entity Texture Features",
+          "homepageURL": "https://modrinth.com/mod/entitytexturefeatures",
+          "imageURL": "https://cdn.modrinth.com/data/BVzZfTc1/af683d206d50b05258d865b0d6e4aa2f2cee12f2_96.webp",
+          "downloadCount": 43457365
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.9.3",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/NNAgCjsB/versions/H7zaVcD6/entityculling-forge-1.9.3-mc1.20.1.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "entityculling",
+          "slug": "entityculling",
+          "name": "Entity Culling",
+          "homepageURL": "https://modrinth.com/mod/entityculling",
+          "imageURL": "https://cdn.modrinth.com/data/NNAgCjsB/7873452d6cede4daed12da3d7d8c193ab88b4fd6_96.webp",
+          "downloadCount": 63980262
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.20.1-forge-1.5.2-beta.3",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/EO8aSHxh/versions/4ndrYYeb/eureka-1201-1.5.2-beta.3.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "eureka",
+          "slug": "eureka",
+          "name": "Eureka! Ships! for Valkyrien Skies (Forge/Fabric)",
+          "homepageURL": "https://modrinth.com/mod/eureka",
+          "imageURL": "https://cdn.modrinth.com/data/EO8aSHxh/67865e0eabadcd6903f2a3296b729ba00b23de3e.png",
+          "downloadCount": 1425363
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "0.92.6+1.11.14+1.20.1",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/XweDEycJ/fabric-api-0.92.6%2B1.11.14%2B1.20.1.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "forgified-fabric-api",
+          "slug": "forgified-fabric-api",
+          "name": "Forgified Fabric API",
+          "homepageURL": "https://modrinth.com/mod/forgified-fabric-api",
+          "imageURL": "https://cdn.modrinth.com/data/Aqlf1Shp/bcdcfed483b0365807f75181eea89b7960cd3b1b_96.webp",
+          "downloadCount": 9617695
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.20.1-1.2.9",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/R2OftAxM/versions/8rPF1pFi/FarmersDelight-1.20.1-1.2.9.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "farmers-delight",
+          "slug": "farmers-delight",
+          "name": "Farmer's Delight",
+          "homepageURL": "https://modrinth.com/mod/farmers-delight",
+          "imageURL": "https://cdn.modrinth.com/data/R2OftAxM/8e7aa38ab94d94bb0a2894a218b69beb49002b34.png",
+          "downloadCount": 8596501
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.4+1.20",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/zvwTYJdT/versions/8xQA5THL/fastchest-reforged-1.4%2B1.20.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "fastchest-reforged",
+          "slug": "fastchest-reforged",
+          "name": "FastChest Reforged",
+          "homepageURL": "https://modrinth.com/mod/fastchest-reforged",
+          "imageURL": "https://cdn.modrinth.com/data/zvwTYJdT/d79295ec0a5f12bcab3b022127003806a1862a45_96.webp",
+          "downloadCount": 4708
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.1.1",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/LauZQ6kM/versions/GjwRoxLR/FastEvent-1.20.1-1.1.1.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "fastevent",
+          "slug": "fastevent",
+          "name": "FastEvent",
+          "homepageURL": "https://modrinth.com/mod/fastevent",
+          "imageURL": "https://cdn.modrinth.com/data/LauZQ6kM/0f562a421a15bee9ed8deeea99b24b3abe233b01_96.webp",
+          "downloadCount": 696062
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "v20.1.5-1.20.1-Forge",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/FsoeTIV0/versions/R0MOnh2f/FastItemFrames-v20.1.5-1.20.1-Forge.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "fast-item-frames",
+          "slug": "fast-item-frames",
+          "name": "Fast Item Frames",
+          "homepageURL": "https://modrinth.com/mod/fast-item-frames",
+          "imageURL": "https://cdn.modrinth.com/data/FsoeTIV0/61ec84b804647ef0c09ea49995f86aaec2f28fc8_96.webp",
+          "downloadCount": 812370
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.1.0-forge+1.20.1",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/H80QSt2v/versions/m3OUAuHy/fastitems-forge-1.1.0-forge%2B1.20.1.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "fast-items",
+          "slug": "fast-items",
+          "name": "Fast Items",
+          "homepageURL": "https://modrinth.com/mod/fast-items",
+          "imageURL": "https://cdn.modrinth.com/data/H80QSt2v/36570b74175c5f301a41c3b8a280f373ad911c06_96.webp",
+          "downloadCount": 207983
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "6.0.1",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "ferrite-core",
+          "slug": "ferrite-core",
+          "name": "FerriteCore",
+          "homepageURL": "https://modrinth.com/mod/ferrite-core",
+          "imageURL": "https://cdn.modrinth.com/data/uXXizFIs/222a126f26f8f9ae1eb339f3b767677f18bff31f_96.webp",
+          "downloadCount": 63881927
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.2.16",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/4Rh1Mobu/versions/io2duzJM/flerovium-forge-1.20.1-1.2.16-all.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "flerovium",
+          "slug": "flerovium",
+          "name": "Flerovium",
+          "homepageURL": "https://modrinth.com/mod/flerovium",
+          "imageURL": "https://cdn.modrinth.com/data/4Rh1Mobu/a0e1ac73558191a743458c0254ba3fc73a242e4a_96.webp",
+          "downloadCount": 1209348
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.5.3+1.20.1-forge",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/WuGVWUF2/versions/5Lmz97Q7/Fog-forge-1.5.3-1.20.1.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "fog",
+          "slug": "fog",
+          "name": "Fog",
+          "homepageURL": "https://modrinth.com/mod/fog",
+          "imageURL": "https://cdn.modrinth.com/data/WuGVWUF2/ba23a02828e2b4a3d3246eec064cfa526c4f871c_96.webp",
+          "downloadCount": 949476
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.2.11a-forge-mc1.20.1",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/p19vrgc2/versions/QQQGRmiY/fusion-1.2.11a-forge-mc1.20.1.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "fusion-connected-textures",
+          "slug": "fusion-connected-textures",
+          "name": "Fusion (Connected Textures)",
+          "homepageURL": "https://modrinth.com/mod/fusion-connected-textures",
+          "imageURL": "https://cdn.modrinth.com/data/p19vrgc2/8a9940a468bb536f7402b389d583e7f070ee14fb_96.webp",
+          "downloadCount": 5509761
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "0.7.3+1.20.1+forge",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/hYykXjDp/versions/17Wzgyxp/fzzy_config-0.7.3%2B1.20.1%2Bforge.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "fzzy-config",
+          "slug": "fzzy-config",
+          "name": "Fzzy Config",
+          "homepageURL": "https://modrinth.com/mod/fzzy-config",
+          "imageURL": "https://cdn.modrinth.com/data/hYykXjDp/11f469b1bf1f201a95c2e3ddc09ca47d85c3ed53.png",
+          "downloadCount": 11084870
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "4.8.2",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/aVW7Z5da/geckolib-forge-1.20.1-4.8.2.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "geckolib",
+          "slug": "geckolib",
+          "name": "Geckolib",
+          "homepageURL": "https://modrinth.com/mod/geckolib",
+          "imageURL": "https://cdn.modrinth.com/data/8BmcQJ2H/012d1aadbc754995de66e8c149a56aa10b63fe05_96.webp",
+          "downloadCount": 27933131
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "0.0.1.1",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/s3dmwKy5/versions/pYPZ5MNI/GlitchCore-forge-1.20.1-0.0.1.1.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "glitchcore",
+          "slug": "glitchcore",
+          "name": "GlitchCore",
+          "homepageURL": "https://modrinth.com/mod/glitchcore",
+          "imageURL": "https://cdn.modrinth.com/data/s3dmwKy5/76dd9e7bc737a02b723730ab34f536ab43936980.png",
+          "downloadCount": 8088443
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "gpumemleakfix-1.20.1-1.8.jar",
+        "repository": "curseforge",
+        "loaders": {},
+        "downloadUrl": "https://edge.forgecdn.net/files/4884/976/gpumemleakfix-1.20.1-1.8.jar",
+        "modMetadata": {
+          "repository": "curseforge",
+          "id": "882495",
+          "slug": "fix-gpu-memory-leak",
+          "name": "fix GPU memory leak[Forge/Fabric]",
+          "homepageURL": "https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak",
+          "imageURL": "https://media.forgecdn.net/avatars/841/827/638236647684351264.png",
+          "downloadCount": 71278689
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.0.5.1-forge",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/5CTSrY8X/versions/mMc55fB1/GPUTape-1.18x-1.21x-1.0.5.1.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "gputape",
+          "slug": "gputape",
+          "name": "GPUBooster",
+          "homepageURL": "https://modrinth.com/mod/gputape",
+          "imageURL": "https://cdn.modrinth.com/data/5CTSrY8X/da829c3d25f976da539f41c3eae3d1ebe6c27e5e_96.webp",
+          "downloadCount": 1273002
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.1.9",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/cVNW5lr6/versions/rcQOLnyI/Highlighter-1.20.1-forge-1.1.9.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "item-highlighter",
+          "slug": "item-highlighter",
+          "name": "Item Highlighter",
+          "homepageURL": "https://modrinth.com/mod/item-highlighter",
+          "imageURL": "https://cdn.modrinth.com/data/cVNW5lr6/5e15f8c53ea36ca5391cdd9bbdea33261fa4c18d_96.webp",
+          "downloadCount": 10171300
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "holdmyitems-1.20.1v2.1.jar",
+        "repository": "curseforge",
+        "loaders": {},
+        "downloadUrl": "https://edge.forgecdn.net/files/6608/415/holdmyitems-1.20.1v2.1.jar",
+        "modMetadata": {
+          "repository": "curseforge",
+          "id": "1246920",
+          "slug": "hold-my-items-reforged",
+          "name": "Hold My Items - Reforged",
+          "homepageURL": "https://www.curseforge.com/minecraft/mc-mods/hold-my-items-reforged",
+          "imageURL": "https://media.forgecdn.net/avatars/1296/854/638842998790014007.png",
+          "downloadCount": 613805
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "2.1.13-1.20.1-beta-5",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/LVnvHVBp/versions/EzN8KQYF/iceandfire-2.1.13-1.20.1-beta-5.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "ice-and-fire-dragons",
+          "slug": "ice-and-fire-dragons",
+          "name": "Ice and Fire",
+          "homepageURL": "https://modrinth.com/mod/ice-and-fire-dragons",
+          "imageURL": "https://cdn.modrinth.com/data/LVnvHVBp/b42825a026d1d58d97fd81ed4ef429ca86c838d5_96.webp",
+          "downloadCount": 2279287
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.1.25",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/5faXoLqX/versions/BQ8rJPXV/Iceberg-1.20.1-forge-1.1.25.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "iceberg",
+          "slug": "iceberg",
+          "name": "Iceberg",
+          "homepageURL": "https://modrinth.com/mod/iceberg",
+          "imageURL": "https://cdn.modrinth.com/data/5faXoLqX/88c9b9918841470dad995049244ef7a3cb2f34f5_96.webp",
+          "downloadCount": 18841797
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.5.2+1.20.4-forge",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/5ZwdcRci/versions/aFMmx5Ig/ImmediatelyFast-Forge-1.5.2%2B1.20.4.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "immediatelyfast",
+          "slug": "immediatelyfast",
+          "name": "ImmediatelyFast",
+          "homepageURL": "https://modrinth.com/mod/immediatelyfast",
+          "imageURL": "https://cdn.modrinth.com/data/5ZwdcRci/e57b6b451425692ac17ad322d5e14bea686a383a_96.webp",
+          "downloadCount": 53894557
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "0.3.0",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/9wv7LuMc/versions/YbO8SNFq/ImmersiveUI-FORGE-0.3.0.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "immersive-ui",
+          "slug": "immersive-ui",
+          "name": "Immersive UI",
+          "homepageURL": "https://modrinth.com/mod/immersive-ui",
+          "imageURL": "https://cdn.modrinth.com/data/9wv7LuMc/fac59d2847d87e6b5cb384c302d6c2bcfd0d0c4b_96.webp",
+          "downloadCount": 2979198
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "11.13.2+forge",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/nvQzSEkH/versions/LecuGude/Jade-1.20.1-Forge-11.13.2.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "jade",
+          "slug": "jade",
+          "name": "Jade 🔍",
+          "homepageURL": "https://modrinth.com/mod/jade",
+          "imageURL": "https://cdn.modrinth.com/data/nvQzSEkH/b04217bc2b7dc524c4d12f81ff42cc1cefb9b0fc_96.webp",
+          "downloadCount": 31188749
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "15.20.0.127",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/ruHSy16N/jei-1.20.1-forge-15.20.0.127.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "jei",
+          "slug": "jei",
+          "name": "Just Enough Items (JEI)",
+          "homepageURL": "https://modrinth.com/mod/jei",
+          "imageURL": "https://cdn.modrinth.com/data/u6dRKJwZ/4a3f18ac0d096c9f8e9176984c44be4e58f94c89_96.webp",
+          "downloadCount": 27257030
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.20.1-5.10.3-forge",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/lfHFW1mp/versions/r7FWVNCs/journeymap-1.20.1-5.10.3-forge.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "journeymap",
+          "slug": "journeymap",
+          "name": "JourneyMap",
+          "homepageURL": "https://modrinth.com/mod/journeymap",
+          "imageURL": "https://cdn.modrinth.com/data/lfHFW1mp/a1c571a21a88f6fa59eab67829f216f65ab393ee_96.webp",
+          "downloadCount": 7201544
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "4.11.0",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/ordsPcFz/versions/hmeyC41q/kotlinforforge-4.11.0-all.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "kotlin-for-forge",
+          "slug": "kotlin-for-forge",
+          "name": "Kotlin for Forge",
+          "homepageURL": "https://modrinth.com/mod/kotlin-for-forge",
+          "imageURL": "https://cdn.modrinth.com/data/ordsPcFz/064b8f129b776eb303f7f8b1a610e21d153c74b9_96.webp",
+          "downloadCount": 17286606
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "0.2.24-lite",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/JkxWVYwU/versions/3OHXI5Fu/Krypton%20FNP-forge-1.20.1-0.2.24-lite.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "krypton-fnp",
+          "slug": "krypton-fnp",
+          "name": "Krypton FNP",
+          "homepageURL": "https://modrinth.com/mod/krypton-fnp",
+          "imageURL": "https://cdn.modrinth.com/data/JkxWVYwU/62f7dda76bbadad7433688ca1d0a8270c275416e_96.webp",
+          "downloadCount": 155169
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.3.4",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/2ecVyZ49/versions/vCQj9Ui7/Ksyxis-1.3.4.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "ksyxis",
+          "slug": "ksyxis",
+          "name": "Ksyxis",
+          "homepageURL": "https://modrinth.com/mod/ksyxis",
+          "imageURL": "https://cdn.modrinth.com/data/2ecVyZ49/e7c3867d7a7da57f987bc0d6d37de88020c626a5_96.webp",
+          "downloadCount": 3337678
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "3.16",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/46KJle7n/versions/NvvXful4/L_Enders_Cataclysm-3.16.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "l_enders-cataclysm",
+          "slug": "l_enders-cataclysm",
+          "name": "L_Ender's Cataclysm",
+          "homepageURL": "https://modrinth.com/mod/l_enders-cataclysm",
+          "imageURL": "https://cdn.modrinth.com/data/46KJle7n/4de43b519c4b4ce09c5a3155e908da446dbf455a_96.webp",
+          "downloadCount": 4634211
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.4.5",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/atHH8NyV/versions/JhxD2e6J/LegendaryTooltips-1.20.1-forge-1.4.5.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "legendary-tooltips",
+          "slug": "legendary-tooltips",
+          "name": "Legendary Tooltips",
+          "homepageURL": "https://modrinth.com/mod/legendary-tooltips",
+          "imageURL": "https://cdn.modrinth.com/data/atHH8NyV/bd47257c8d4aca0e04c43269e5beb7af680b144b_96.webp",
+          "downloadCount": 6139632
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.5.0",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/vE2FN5qn/versions/1VmupN41/letmedespawn-1.20.x-forge-1.5.0.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "lmd",
+          "slug": "lmd",
+          "name": "Let Me Despawn",
+          "homepageURL": "https://modrinth.com/mod/lmd",
+          "imageURL": "https://cdn.modrinth.com/data/vE2FN5qn/2609f745e46bd92e57a67e1da07319eb2154c6f7.png",
+          "downloadCount": 10582100
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "lionfishapi-2.4-Fix.jar",
+        "repository": "curseforge",
+        "loaders": {},
+        "downloadUrl": "https://edge.forgecdn.net/files/5922/47/lionfishapi-2.4-Fix.jar",
+        "modMetadata": {
+          "repository": "curseforge",
+          "id": "1001614",
+          "slug": "lionfish-api",
+          "name": "Lionfish API",
+          "homepageURL": "https://www.curseforge.com/minecraft/mc-mods/lionfish-api",
+          "imageURL": "https://media.forgecdn.net/avatars/978/896/638484152344379944.png",
+          "downloadCount": 40350949
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.4.11-forge-1.20",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/XaDC71GB/versions/srPoHKt8/lithostitched-forge-1.20.1-1.4.11.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "lithostitched",
+          "slug": "lithostitched",
+          "name": "Lithostitched",
+          "homepageURL": "https://modrinth.com/mod/lithostitched",
+          "imageURL": "https://cdn.modrinth.com/data/XaDC71GB/bc3425bcb318176adc7da99b6eec48787eed98d3.png",
+          "downloadCount": 8582526
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "v1.1.5",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/NRjRiSSD/versions/3w0IxNtk/memoryleakfix-forge-1.17%2B-1.1.5.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "memoryleakfix",
+          "slug": "memoryleakfix",
+          "name": "Memory Leak Fix",
+          "homepageURL": "https://modrinth.com/mod/memoryleakfix",
+          "imageURL": "https://cdn.modrinth.com/data/NRjRiSSD/a279c19f9c3574339fa90f675aa8a94f8f6cff92_96.webp",
+          "downloadCount": 25104953
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "memorysettings-1.20.1-5.9.jar",
+        "repository": "curseforge",
+        "loaders": {},
+        "downloadUrl": "https://edge.forgecdn.net/files/6120/515/memorysettings-1.20.1-5.9.jar",
+        "modMetadata": {
+          "repository": "curseforge",
+          "id": "526901",
+          "slug": "memory-settings",
+          "name": "Memory Settings[Neo/Forge/Fabric]",
+          "homepageURL": "https://www.curseforge.com/minecraft/mc-mods/memory-settings",
+          "imageURL": "https://media.forgecdn.net/avatars/532/81/637855187332254154.png",
+          "downloadCount": 41177706
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.9.1+1.20.1-forge",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/codAaoxh/versions/fNBU1ZYk/midnightlib-forge-1.9.1%2B1.20.1.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "midnightlib",
+          "slug": "midnightlib",
+          "name": "MidnightLib",
+          "homepageURL": "https://modrinth.com/mod/midnightlib",
+          "imageURL": "https://cdn.modrinth.com/data/codAaoxh/76ce92742fea39dadbf9a68a389b4690f10ebd52_96.webp",
+          "downloadCount": 11224439
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.20.1-1.0.0",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/Kbz7UydC/versions/mEhoYk0d/mobtimizations-forge-1.20.1-1.0.0.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "mobtimizations",
+          "slug": "mobtimizations",
+          "name": "Mobtimizations - Entity Performance Fixes",
+          "homepageURL": "https://modrinth.com/mod/mobtimizations",
+          "imageURL": "https://cdn.modrinth.com/data/Kbz7UydC/6ef8ae21687609aef7d58b564445961153c47faa_96.webp",
+          "downloadCount": 1066525
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "5.25.1+mc1.20.1",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/nmDcB62a/versions/PbIMs8a8/modernfix-forge-5.25.1%2Bmc1.20.1.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "modernfix",
+          "slug": "modernfix",
+          "name": "ModernFix",
+          "homepageURL": "https://modrinth.com/mod/modernfix",
+          "imageURL": "https://cdn.modrinth.com/data/nmDcB62a/2af94de5e08ae54567ee86b968fc7ce076d9fee5_96.webp",
+          "downloadCount": 39072066
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "4.1.0",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/hlVtb1H0/versions/ZRdVtA4m/mods_optimizer-forge-1.20.1-4.1.0.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "mods-optimizer",
+          "slug": "mods-optimizer",
+          "name": "Mods Optimizer",
+          "homepageURL": "https://modrinth.com/mod/mods-optimizer",
+          "imageURL": "https://cdn.modrinth.com/data/hlVtb1H0/ee7236127b815792936802877aeec8e56a277004_96.webp",
+          "downloadCount": 119165
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.20-2.16.16-forge",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/twkfQtEc/versions/DhH5mm9z/moonlight-1.20-2.16.16-forge.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "moonlight",
+          "slug": "moonlight",
+          "name": "Moonlight Lib",
+          "homepageURL": "https://modrinth.com/mod/moonlight",
+          "imageURL": "https://cdn.modrinth.com/data/twkfQtEc/icon.png",
+          "downloadCount": 18366976
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.7.3",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/BFbX9xcm/versions/WMCZ4t5U/mowziesmobs-1.7.3.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "mowzies-mobs",
+          "slug": "mowzies-mobs",
+          "name": "Mowzie's Mobs",
+          "homepageURL": "https://modrinth.com/mod/mowzies-mobs",
+          "imageURL": "https://cdn.modrinth.com/data/BFbX9xcm/9a003725e2cf1cbe4e42807d394b87710b5c3e4d.png",
+          "downloadCount": 1749462
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.0.4+1.20.1-forge",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/nKL4LKzM/MRU-1.0.4%2B1.20.1%2Bforge.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "mru",
+          "slug": "mru",
+          "name": "M.R.U",
+          "homepageURL": "https://modrinth.com/mod/mru",
+          "imageURL": "https://cdn.modrinth.com/data/SNVQ2c0g/82339bfc8a0a3a6a3c376f5c29555a378379cfa0_96.webp",
+          "downloadCount": 8742447
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.20.1-4.0",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/Vv0RM7WN/versions/MTDQhZd2/nethersdelight-1.20.1-4.0.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "nethers-delight",
+          "slug": "nethers-delight",
+          "name": "Nether's Delight",
+          "homepageURL": "https://modrinth.com/mod/nethers-delight",
+          "imageURL": "https://cdn.modrinth.com/data/Vv0RM7WN/bcc7b753ece2584ea956888971a98dc7f3045319.png",
+          "downloadCount": 1497873
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.2.8",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/LPjGiSO4/versions/QsRKydVt/Nullscape_1.20.x_v1.2.8.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "nullscape",
+          "slug": "nullscape",
+          "name": "Nullscape",
+          "homepageURL": "https://modrinth.com/mod/nullscape",
+          "imageURL": "https://cdn.modrinth.com/data/LPjGiSO4/30249e0548b8643b1559889eab585683cb397f3a_96.webp",
+          "downloadCount": 3388319
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "18",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/fU7jbFHc/versions/7sZmDObM/obscure_api-18.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "obscure-api",
+          "slug": "obscure-api",
+          "name": "Obscure API",
+          "homepageURL": "https://modrinth.com/mod/obscure-api",
+          "imageURL": "https://cdn.modrinth.com/data/fU7jbFHc/f0a6e137f945eb676d46f6aec31681fe288d0ca9.png",
+          "downloadCount": 4406597
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.0.2-1.20",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/DGiq4ZSW/versions/9jLLNENb/oceansdelight-1.0.2-1.20.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "oceans-delight",
+          "slug": "oceans-delight",
+          "name": "Ocean's Delight",
+          "homepageURL": "https://modrinth.com/mod/oceans-delight",
+          "imageURL": "https://cdn.modrinth.com/data/DGiq4ZSW/949ba66d6fffb5a984fbb70e3ef4a51f15be3191.png",
+          "downloadCount": 4313531
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "0.5.0.1",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/HZ7KmyXp/OctoLib-FORGE-0.5.0.1%2B1.20.1.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "octo-lib",
+          "slug": "octo-lib",
+          "name": "OctoLib",
+          "homepageURL": "https://modrinth.com/mod/octo-lib",
+          "imageURL": "https://cdn.modrinth.com/data/RH2KUdKJ/a4043436fa16d40de4faa032b08e0879b8397259_96.webp",
+          "downloadCount": 6110066
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.20.1-1.8.0",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/GchcoXML/versions/iQ1SwGc3/oculus-mc1.20.1-1.8.0.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "oculus",
+          "slug": "oculus",
+          "name": "Oculus",
+          "homepageURL": "https://modrinth.com/mod/oculus",
+          "imageURL": "https://cdn.modrinth.com/data/GchcoXML/09ef853cdfd3d467dead4faef37102535a2185d5_96.webp",
+          "downloadCount": 16520382
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.20.1-1.10.0.9",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/jl3m2lR9/versions/vynFXywM/origins-forge-1.20.1-1.10.0.9-all.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "origins-forge",
+          "slug": "origins-forge",
+          "name": "Origins (Forge)",
+          "homepageURL": "https://modrinth.com/mod/origins-forge",
+          "imageURL": "https://cdn.modrinth.com/data/jl3m2lR9/43857dfa07470eac6c3151e7c60e9689c64b4da4_96.webp",
+          "downloadCount": 579744
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "2.4-forge",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/npBe7UbS/versions/IqOJJUcH/origins-plus-plus-2.4-forge.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "origins-plus-plus",
+          "slug": "origins-plus-plus",
+          "name": "Origins++",
+          "homepageURL": "https://modrinth.com/mod/origins-plus-plus",
+          "imageURL": "https://cdn.modrinth.com/data/npBe7UbS/0e587d302578c2f6ae7b3986af6015bd5e92e6c1_96.webp",
+          "downloadCount": 399166
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "3.3.1",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/c7m1mi73/versions/96y8nmkX/packetfixer-3.3.1-1.18-1.20.4-merged.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "packet-fixer",
+          "slug": "packet-fixer",
+          "name": "Packet Fixer",
+          "homepageURL": "https://modrinth.com/mod/packet-fixer",
+          "imageURL": "https://cdn.modrinth.com/data/c7m1mi73/388af00d61fa57e7e10612bcc099bf6ee0794e5e.png",
+          "downloadCount": 11071822
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.1.6.2-1.20-1.20.2-forge",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/JNRr4jji/versions/G1RE5I57/Palladium-1.20-1.20.2-1.1.6.2.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "mpalladium",
+          "slug": "mpalladium",
+          "name": "Palladium",
+          "homepageURL": "https://modrinth.com/mod/mpalladium",
+          "imageURL": "https://cdn.modrinth.com/data/JNRr4jji/f278059c6af8dc0b8bf29b85915fa520bf20cbfb_96.webp",
+          "downloadCount": 491499
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "0.2.6+1.20.1+forge",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/RSeLon5O/versions/bqPuw9aZ/particle_core-0.2.6%2B1.20.1%2Bforge.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "particle-core",
+          "slug": "particle-core",
+          "name": "Particle Core",
+          "homepageURL": "https://modrinth.com/mod/particle-core",
+          "imageURL": "https://cdn.modrinth.com/data/RSeLon5O/147110a6a4457b2f287f68fc626771f0f8ef2cde_96.webp",
+          "downloadCount": 4401071
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "v4-beta.3+1.20.1-forge",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/nrikgvxm/versions/aFwRYRIm/particlerain-4.0.0-beta.3%2B1.20.1-forge.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "particle-rain",
+          "slug": "particle-rain",
+          "name": "Particle Rain",
+          "homepageURL": "https://modrinth.com/mod/particle-rain",
+          "imageURL": "https://cdn.modrinth.com/data/nrikgvxm/e637304d1bec07c39e833d810aa4bdbb9703bf95_96.webp",
+          "downloadCount": 6887813
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "3.8.2+1.20.1-forge",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/t5W7Jfwy/versions/SQpqSgAE/Pehkui-3.8.2%2B1.20.1-forge.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "pehkui",
+          "slug": "pehkui",
+          "name": "Pehkui",
+          "homepageURL": "https://modrinth.com/mod/pehkui",
+          "imageURL": "https://cdn.modrinth.com/data/t5W7Jfwy/icon.png",
+          "downloadCount": 5045849
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "v8.0.0-1.20.1-Forge",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/ZX66K16c/versions/LojgSWbd/PickUpNotifier-v8.0.0-1.20.1-Forge.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "pick-up-notifier",
+          "slug": "pick-up-notifier",
+          "name": "Pick Up Notifier",
+          "homepageURL": "https://modrinth.com/mod/pick-up-notifier",
+          "imageURL": "https://cdn.modrinth.com/data/ZX66K16c/1c0ee069ad454ad084493cd927eb2c67b2dc2ad9_96.webp",
+          "downloadCount": 7156410
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "0.49.10+1.20.1",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/tagwiZkJ/versions/UZBKtFyR/polymorph-forge-0.49.10%2B1.20.1.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "polymorph",
+          "slug": "polymorph",
+          "name": "Polymorph",
+          "homepageURL": "https://modrinth.com/mod/polymorph",
+          "imageURL": "https://cdn.modrinth.com/data/tagwiZkJ/ed244c5829bde539763c7fffb55cb3194a349d66.png",
+          "downloadCount": 12186761
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.0.5",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/1OE8wbN0/versions/FFyss87M/Prism-1.20.1-forge-1.0.5.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "prism-lib",
+          "slug": "prism-lib",
+          "name": "Prism",
+          "homepageURL": "https://modrinth.com/mod/prism-lib",
+          "imageURL": "https://cdn.modrinth.com/data/1OE8wbN0/2fecc17cdc6036b648f0defc7c9a85a6733be435_96.webp",
+          "downloadCount": 10052718
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "v8.1.33-1.20.1-Forge",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/QAGBst4M/versions/mIyVGf3d/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "puzzles-lib",
+          "slug": "puzzles-lib",
+          "name": "Puzzles Lib",
+          "homepageURL": "https://modrinth.com/mod/puzzles-lib",
+          "imageURL": "https://cdn.modrinth.com/data/QAGBst4M/c78216c61f65b6ce82593e4e92e9c358402bb524_96.webp",
+          "downloadCount": 28733176
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "0.12.4",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/2gvRmQXx/versions/n947JjJH/radium-mc1.20.1-0.12.4%2Bgit.26c9d8e.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "radium",
+          "slug": "radium",
+          "name": "Radium",
+          "homepageURL": "https://modrinth.com/mod/radium",
+          "imageURL": "https://cdn.modrinth.com/data/2gvRmQXx/e5a1a0496ad3cf36b951348fa1d6fb0511c2ec96_96.webp",
+          "downloadCount": 2588866
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "Searchables-forge-1.20.1-1.0.3.jar",
+        "repository": "curseforge",
+        "loaders": {},
+        "downloadUrl": "https://mediafilez.forgecdn.net/files/5284/15/Searchables-forge-1.20.1-1.0.3.jar",
+        "modMetadata": {
+          "repository": "curseforge",
+          "id": "858542",
+          "slug": "searchables",
+          "name": "Searchables",
+          "homepageURL": "https://www.curseforge.com/minecraft/mc-mods/searchables",
+          "imageURL": "https://media.forgecdn.net/avatars/814/175/638189233295197018.png",
+          "downloadCount": 105983720
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.9.2",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/zV5r3pPn/versions/BBnR3V86/skinlayers3d-forge-1.9.2-mc1.20.1.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "3dskinlayers",
+          "slug": "3dskinlayers",
+          "name": "3D Skin Layers",
+          "homepageURL": "https://modrinth.com/mod/3dskinlayers",
+          "imageURL": "https://cdn.modrinth.com/data/zV5r3pPn/ff7010d4ec0275609866c8b0f603b25e25949c08_96.webp",
+          "downloadCount": 31205592
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "3.6.0",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/KWLI8Ng7/sliceanddice-forge-3.6.0.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "slice-and-dice",
+          "slug": "slice-and-dice",
+          "name": "Create Slice & Dice",
+          "homepageURL": "https://modrinth.com/mod/slice-and-dice",
+          "imageURL": "https://cdn.modrinth.com/data/GmjmRQ0A/d2d4a1a5cfc7f1ececf50dc977021c62654ccdc8_96.webp",
+          "downloadCount": 3402394
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "mc1.20.1-0.0.4",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/z53V2L4P/versions/HkfL3iGO/smoothboot%28reloaded%29-mc1.20.1-0.0.4.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "smooth-boot-reloaded",
+          "slug": "smooth-boot-reloaded",
+          "name": "Smooth Boot (Reloaded)",
+          "homepageURL": "https://modrinth.com/mod/smooth-boot-reloaded",
+          "imageURL": "https://cdn.modrinth.com/data/z53V2L4P/006b5548281e37fc2dede3c9c10d283c20b51f27_96.webp",
+          "downloadCount": 2243226
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "forge-1.20.1-1.0.10",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/PxQSWIcD/versions/I156ee3A/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "sodium-dynamic-lights",
+          "slug": "sodium-dynamic-lights",
+          "name": "Sodium Dynamic Lights",
+          "homepageURL": "https://modrinth.com/mod/sodium-dynamic-lights",
+          "imageURL": "https://cdn.modrinth.com/data/PxQSWIcD/a5ab5515213391934e18baaf487c87e4b24ebfa3_96.webp",
+          "downloadCount": 8581837
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "forge-1.20.1-1.0.10",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/Es5v4eyq/versions/d0EFLitO/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "sodium-options-api",
+          "slug": "sodium-options-api",
+          "name": "Sodium Options API",
+          "homepageURL": "https://modrinth.com/mod/sodium-options-api",
+          "imageURL": "https://cdn.modrinth.com/data/Es5v4eyq/7bff17babb498584c0edd74211d97435b651c11f_96.webp",
+          "downloadCount": 7034516
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "sophisticatedbackpacks-1.20.1-3.24.12.1411.jar",
+        "repository": "curseforge",
+        "loaders": {},
+        "downloadUrl": "https://edge.forgecdn.net/files/7169/843/sophisticatedbackpacks-1.20.1-3.24.12.1411.jar",
+        "modMetadata": {
+          "repository": "curseforge",
+          "id": "422301",
+          "slug": "sophisticated-backpacks",
+          "name": "Sophisticated Backpacks",
+          "homepageURL": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks",
+          "imageURL": "https://media.forgecdn.net/avatars/375/56/637549610342642859.png",
+          "downloadCount": 162180614
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "sophisticatedcore-1.20.1-1.2.107.1240.jar",
+        "repository": "curseforge",
+        "loaders": {},
+        "downloadUrl": "https://edge.forgecdn.net/files/7169/400/sophisticatedcore-1.20.1-1.2.107.1240.jar",
+        "modMetadata": {
+          "repository": "curseforge",
+          "id": "618298",
+          "slug": "sophisticated-core",
+          "name": "Sophisticated Core",
+          "homepageURL": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-core",
+          "imageURL": "https://media.forgecdn.net/avatars/540/438/637866039314801108.png",
+          "downloadCount": 134575499
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+        "repository": "curseforge",
+        "loaders": {},
+        "downloadUrl": "https://edge.forgecdn.net/files/7032/235/sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+        "modMetadata": {
+          "repository": "curseforge",
+          "id": "535489",
+          "slug": "sound-physics-remastered",
+          "name": "Sound Physics Remastered",
+          "homepageURL": "https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered",
+          "imageURL": "https://media.forgecdn.net/avatars/442/531/637694502660771592.png",
+          "downloadCount": 91919161
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "2.2.1+1.20.1-forge",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/ZouiUX7t/versions/6vE02T1J/Sounds-2.2.1%2B1.20.1%2Bforge.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "sound",
+          "slug": "sound",
+          "name": "Sounds",
+          "homepageURL": "https://modrinth.com/mod/sound",
+          "imageURL": "https://cdn.modrinth.com/data/ZouiUX7t/b6ae84ea14654245f58856722473afeddf72360c_96.webp",
+          "downloadCount": 6210804
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.10.53-forge",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/l6YH9Als/versions/4FXHDE9F/spark-1.10.53-forge.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "spark",
+          "slug": "spark",
+          "name": "spark",
+          "homepageURL": "https://modrinth.com/mod/spark",
+          "imageURL": "https://cdn.modrinth.com/data/l6YH9Als/61a777dd08a8447ac93e8b6372e6d27d48cd1e1a_96.webp",
+          "downloadCount": 9451387
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.1.2+1.20",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/iRfIGC1s/versions/cNa0vkNj/starlight-1.1.2%2Bforge.1cda73c.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "starlight-forge",
+          "slug": "starlight-forge",
+          "name": "Starlight (Forge)",
+          "homepageURL": "https://modrinth.com/mod/starlight-forge",
+          "imageURL": "https://cdn.modrinth.com/data/iRfIGC1s/aa11bf788b9893370ff1e26af1c275dfd7590c59_96.webp",
+          "downloadCount": 8154480
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "Structory_1.20.x_v1.3.5.jar",
+        "repository": "curseforge",
+        "loaders": {},
+        "downloadUrl": null,
+        "modMetadata": {
+          "repository": "curseforge",
+          "id": "636540",
+          "slug": "structory",
+          "name": "Structory",
+          "homepageURL": "https://www.curseforge.com/minecraft/mc-mods/structory",
+          "imageURL": "https://media.forgecdn.net/avatars/562/581/637916418629477919.png",
+          "downloadCount": 66745667
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "2.0",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/MlsBPB9a/versions/gDKLEb5Z/TCTcore-1.20.1.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "tct-core",
+          "slug": "tct-core",
+          "name": "TCT Core",
+          "homepageURL": "https://modrinth.com/mod/tct-core",
+          "imageURL": "https://cdn.modrinth.com/data/MlsBPB9a/b9bfc820bf5bfc889c75a7868d0411f8e95e9003_96.webp",
+          "downloadCount": 171139
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "3.0.17",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/lWDHr9jE/versions/KLmvRxwh/tectonic-3.0.17-forge-1.20.1.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "tectonic",
+          "slug": "tectonic",
+          "name": "Tectonic",
+          "homepageURL": "https://modrinth.com/mod/tectonic",
+          "imageURL": "https://cdn.modrinth.com/data/lWDHr9jE/d8b3413f797479dcc0d8764756613e449a358a2e_96.webp",
+          "downloadCount": 7994134
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+        "repository": "curseforge",
+        "loaders": {},
+        "downloadUrl": "https://edge.forgecdn.net/files/6290/448/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+        "modMetadata": {
+          "repository": "curseforge",
+          "id": "563928",
+          "slug": "terrablender",
+          "name": "TerraBlender (Forge)",
+          "homepageURL": "https://www.curseforge.com/minecraft/mc-mods/terrablender",
+          "imageURL": "https://media.forgecdn.net/avatars/478/14/637773351522362655.png",
+          "downloadCount": 115330873
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "2.5.4",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/8oi3bsk5/versions/WeYhEb5d/Terralith_1.20.x_v2.5.4.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "terralith",
+          "slug": "terralith",
+          "name": "Terralith",
+          "homepageURL": "https://modrinth.com/mod/terralith",
+          "imageURL": "https://cdn.modrinth.com/data/8oi3bsk5/1959d924a1088944bbf07a06ba523726112d7e7a_96.webp",
+          "downloadCount": 9229054
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.3.5-1.20-1.20.1-forge",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/CYQ7VYrM/versions/C8Nh7OYF/ToadLib-1.3.5-1.20.1.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "toadlib",
+          "slug": "toadlib",
+          "name": "ToadLib",
+          "homepageURL": "https://modrinth.com/mod/toadlib",
+          "imageURL": "https://cdn.modrinth.com/data/CYQ7VYrM/e689fd733420cf32bbea82bc5e470f5ed0c1f461_96.webp",
+          "downloadCount": 745108
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "9.2.0.171",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/ge1sOdFH/versions/kWVOI0iS/ToughAsNails-forge-1.20.1-9.2.0.171.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "tough-as-nails",
+          "slug": "tough-as-nails",
+          "name": "Tough As Nails",
+          "homepageURL": "https://modrinth.com/mod/tough-as-nails",
+          "imageURL": "https://cdn.modrinth.com/data/ge1sOdFH/fa385c1d5ed5638282faf31e8fc94884bd60d86e.png",
+          "downloadCount": 870487
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.20-Forge-4.0.2",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/JtifUr64/versions/oUSK4sOQ/TravelersTitles-1.20-Forge-4.0.2.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "travelers-titles",
+          "slug": "travelers-titles",
+          "name": "Traveler's Titles",
+          "homepageURL": "https://modrinth.com/mod/travelers-titles",
+          "imageURL": "https://cdn.modrinth.com/data/JtifUr64/e7743f2d78a52a1af0ebe5aacbfa940094c63dff_96.webp",
+          "downloadCount": 5411848
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.20.1-forge-2.3.0-beta.12",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/V5ujR2yw/versions/9TtF0Jtc/valkyrienskies-120-2.3.0-beta.12.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "valkyrien-skies",
+          "slug": "valkyrien-skies",
+          "name": "Valkyrien Skies",
+          "homepageURL": "https://modrinth.com/mod/valkyrien-skies",
+          "imageURL": "https://cdn.modrinth.com/data/V5ujR2yw/d156dee2ce00ca6ce07343bf8db374a05893f376.png",
+          "downloadCount": 2584696
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.20.1-1.2.3",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/AtB5mHky/versions/GpiXMxvP/watut-forge-1.20.1-1.2.3.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "what-are-they-up-to",
+          "slug": "what-are-they-up-to",
+          "name": "What Are They Up To (Watut)",
+          "homepageURL": "https://modrinth.com/mod/what-are-they-up-to",
+          "imageURL": "https://cdn.modrinth.com/data/AtB5mHky/f0809106cc4633fb64323664664280f860b080a4_96.webp",
+          "downloadCount": 7285196
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "waystones-forge-1.20.1-14.1.17.jar",
+        "repository": "curseforge",
+        "loaders": {},
+        "downloadUrl": "https://edge.forgecdn.net/files/6856/603/waystones-forge-1.20.1-14.1.17.jar",
+        "modMetadata": {
+          "repository": "curseforge",
+          "id": "245755",
+          "slug": "waystones",
+          "name": "Waystones",
+          "homepageURL": "https://www.curseforge.com/minecraft/mc-mods/waystones",
+          "imageURL": "https://media.forgecdn.net/avatars/1107/108/638657104456838765.png",
+          "downloadCount": 239676079
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "25.2.10_Forge_1.20",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/1bokaNcj/versions/VfhlV9am/Xaeros_Minimap_25.2.10_Forge_1.20.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "xaeros-minimap",
+          "slug": "xaeros-minimap",
+          "name": "Xaero's Minimap",
+          "homepageURL": "https://modrinth.com/mod/xaeros-minimap",
+          "imageURL": "https://cdn.modrinth.com/data/1bokaNcj/354080f65407e49f486fcf9c4580e82c45ae63b8_96.webp",
+          "downloadCount": 46263654
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.39.12_Forge_1.20",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/NcUtCpym/versions/ATTRzxT3/XaerosWorldMap_1.39.12_Forge_1.20.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "xaeros-world-map",
+          "slug": "xaeros-world-map",
+          "name": "Xaero's World Map",
+          "homepageURL": "https://modrinth.com/mod/xaeros-world-map",
+          "imageURL": "https://cdn.modrinth.com/data/NcUtCpym/354080f65407e49f486fcf9c4580e82c45ae63b8_96.webp",
+          "downloadCount": 41472242
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "3.6.6+1.20.1-forge",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/1eAoo2KR/versions/sCWgXDYQ/yet_another_config_lib_v3-3.6.6%2B1.20.1-forge.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "yacl",
+          "slug": "yacl",
+          "name": "YetAnotherConfigLib (YACL)",
+          "homepageURL": "https://modrinth.com/mod/yacl",
+          "imageURL": "https://cdn.modrinth.com/data/1eAoo2KR/08c0cd32515e260f4bb20bbc0696510041523f9a_96.webp",
+          "downloadCount": 49785628
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.20-Forge-4.0.6",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/Ua7DFN59/versions/PJOYAmAs/YungsApi-1.20-Forge-4.0.6.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "yungs-api",
+          "slug": "yungs-api",
+          "name": "YUNG's API",
+          "homepageURL": "https://modrinth.com/mod/yungs-api",
+          "imageURL": "https://cdn.modrinth.com/data/Ua7DFN59/0fab1c351bf00926a8e1c91dc64b7c88832c3e1f_96.webp",
+          "downloadCount": 17983633
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.20-Forge-4.0.3",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/kidLKymU/versions/rwiShgsc/YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "yungs-better-strongholds",
+          "slug": "yungs-better-strongholds",
+          "name": "YUNG's Better Strongholds",
+          "homepageURL": "https://modrinth.com/mod/yungs-better-strongholds",
+          "imageURL": "https://cdn.modrinth.com/data/kidLKymU/bfb3cac4ca4d7d891fbbcb34a1d61eaa1d6f3e9a_96.webp",
+          "downloadCount": 9569489
+        }
+      },
+      {
+        "mcVersions": {},
+        "modVersion": "1.20.1-Forge-2.0.5",
+        "repository": "modrinth",
+        "loaders": {},
+        "downloadUrl": "https://cdn.modrinth.com/data/cs7iGVq1/versions/UzIwhtOp/YungsCaveBiomes-1.20.1-Forge-2.0.5.jar",
+        "modMetadata": {
+          "repository": "modrinth",
+          "id": "yungs-cave-biomes",
+          "slug": "yungs-cave-biomes",
+          "name": "YUNG's Cave Biomes",
+          "homepageURL": "https://modrinth.com/mod/yungs-cave-biomes",
+          "imageURL": "https://cdn.modrinth.com/data/cs7iGVq1/e5ce74259dece306f7d25c55c59d6afcc3d473ea_96.webp",
+          "downloadCount": 1184426
+        }
+      }
+    ]
+  },
+  {
+    "mcConfig": {
+      "mcVersion": "1.20",
+      "loader": "forge"
+    },
+    "mods": []
+  },
+  {
+    "mcConfig": {
+      "mcVersion": "1.20.1-rc1",
+      "loader": "forge"
+    },
+    "mods": []
+  },
+  {
+    "mcConfig": {
+      "mcVersion": "1.20-pre1",
+      "loader": "forge"
+    },
+    "mods": []
+  },
+  {
+    "mcConfig": {
+      "mcVersion": "1.20-pre2",
+      "loader": "forge"
+    },
+    "mods": []
+  }
+]
